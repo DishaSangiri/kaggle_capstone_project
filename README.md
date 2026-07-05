@@ -221,38 +221,6 @@ http://localhost:5173
 
 ---
 
-# 📸 Screenshots
-
-## Dashboard
-
-> Add a screenshot here.
-
-Example:
-
-```
-images/dashboard.png
-```
-
----
-
-## Planet View
-
-> Add screenshot here.
-
----
-
-## Activity Logging
-
-> Add screenshot here.
-
----
-
-## AI Governor Dashboard
-
-> Add screenshot here.
-
----
-
 # 🚀 Future Improvements
 
 Backend
