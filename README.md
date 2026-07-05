@@ -14,6 +14,8 @@ Every activity performed by the user contributes to the health and balance of di
 
 The platform visualizes the ecosystem through an interactive dashboard and a 3D planet, allowing users to observe how consistent habits affect their virtual world over time.
 
+RealityVerse was inspired by the idea that personal habits shape long-term outcomes just as small environmental changes influence an ecosystem. The project demonstrates how AI agents can transform everyday user actions into meaningful simulations and insights.
+
 ---
 
 ## ✨ Features
@@ -252,16 +254,17 @@ images/dashboard.png
 
 # 🚀 Future Improvements
 
-- Improve 3D planet rendering
-- Add real-time WebSocket synchronization
-- Deploy to cloud
-- User authentication
-- Multiple user profiles
-- Historical analytics dashboard
-- Mobile responsive optimization
-- Advanced AI reasoning between agents
-- Dynamic ecosystem events
-- Enhanced visualization and animations
+Backend
+- Improve AI coordination
+- Better memory
+
+Frontend
+- Better planet rendering
+- Mobile responsive
+
+AI
+- Smarter reasoning
+- Cross-agent collaboration
 
 ---
 
@@ -272,6 +275,26 @@ This project was developed as the capstone submission for the **Google × Kaggle
 The objective was to design and implement a practical AI-powered application demonstrating autonomous agent collaboration in a real-world inspired scenario.
 
 ---
+
+# Challenges
+
+- Integrating multiple AI agents
+- Synchronizing frontend and backend
+- Designing an interactive ecosystem visualization
+- Managing agent communication
+- ---
+# Lessons Learned
+
+This project strengthened my understanding of:
+
+• React
+• FastAPI
+• REST APIs
+• Agent orchestration
+• State management
+• Full-stack development
+
+----
 
 # 👩‍💻 Author
 
