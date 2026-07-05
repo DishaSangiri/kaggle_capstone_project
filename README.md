@@ -5,6 +5,7 @@ RealityVerse is an AI-powered multi-agent simulation platform that transforms re
 Developed as the capstone project for the **Google × Kaggle Agentic AI Course**, RealityVerse demonstrates how autonomous AI agents can collaborate to analyze user activities, simulate environmental changes, and provide intelligent insights.
 
 ---
+<img width="1774" height="887" alt="Image" src="https://github.com/user-attachments/assets/c1a403e6-a015-448a-a35b-fbdbd09ec04d" />
 
 ## 📖 Project Overview
 
